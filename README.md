@@ -24,7 +24,7 @@ This OpenClaw skill enables AI-powered email sending through the [himalaya](http
 brew install himalaya
 
 # Install the skill
-openclaw skills install openclaw-skill-himalaya
+clawhub install openclaw-skill-himalaya
 ```
 
 ## Quick Start
